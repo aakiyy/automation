@@ -33,5 +33,6 @@ jobs:
         run: |
           pip3 install awscli
           pwd
+          ls
           cd lambda && zip -r package.zip ./*
           aws lambda update-function-code --function-name test-http --zip-file fileb://package.zip --publish
