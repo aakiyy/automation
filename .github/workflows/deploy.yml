@@ -33,4 +33,4 @@ jobs:
         run: |
           pip3 install awscli
           zip -r package.zip ./*
-          aws lambda update-function-code --function-name myDailyRecord --zip-file fileb://package.zip --publish
+          aws lambda update-function-code --function-name my_daily_notification --zip-file fileb://package.zip --publish
