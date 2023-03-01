@@ -274,6 +274,7 @@ Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 service-identity @ file:///Users/ktietz/demo/mc3/conda-bld/service_identity_1629460757137/work
 sip==4.19.13
 six @ file:///tmp/build/80754af9/six_1644875935023/work
+slack-sdk==3.20.0
 smart-open @ file:///tmp/build/80754af9/smart_open_1623928409369/work
 sniffio @ file:///opt/concourse/worker/volumes/live/38ca9e9e-09d1-4d43-5a0f-b546422e7807/volume/sniffio_1614030472707/work
 snowballstemmer @ file:///tmp/build/80754af9/snowballstemmer_1637937080595/work
